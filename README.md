@@ -20,7 +20,6 @@ def move_pawn(position):
     print(f"Pawn moved to {position}")
 
 ### Markdown Table
-
 ```markdown
 | Piece       | Value |
 |------------|-------|
