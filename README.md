@@ -19,7 +19,7 @@ def move_pawn(position):
     # Example pseudo-function for chess pawn move
     print(f"Pawn moved to {position}")
 
-### 6️⃣ Markdown Table
+### Markdown Table
 
 ```markdown
 | Piece       | Value |
